@@ -9,7 +9,7 @@
   
   
   
-  <p margin-top: 20/>
+  <p margin-top: 20px/>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,sqlite,py,go,git,github" />
