@@ -1,4 +1,4 @@
-
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,andoridstudio,sqlite,py,go,git,github)](https://skillicons.dev)
 <div align="center">
   <h3>Statistics</h3>
   <a href="https://github.com/fchrgrib/">
@@ -7,5 +7,5 @@
   </a>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=fchrgrib&theme=github-dark-blue)](https://git.io/streak-stats)
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,andoridstudio,sqlite,py,go,git,github)](https://skillicons.dev)
+
  
