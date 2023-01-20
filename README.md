@@ -1,4 +1,5 @@
 
+ ![](https://komarev.com/ghpvc/?username=your-github-username)
 <div align="center">
   <h3>Statistics</h3>
   <a href="https://github.com/fchrgrib/">
@@ -7,4 +8,4 @@
   </a>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=fchrgrib&theme=github-dark-blue)](https://git.io/streak-stats)
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
+ 
