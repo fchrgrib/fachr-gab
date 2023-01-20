@@ -1,4 +1,4 @@
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,andoridstudio,sqlite,py,go,git,github)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,sqlite,py,go,git,github)](https://skillicons.dev)
 <div align="center">
   <h3>Statistics</h3>
   <a href="https://github.com/fchrgrib/">
