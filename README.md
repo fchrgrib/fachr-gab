@@ -7,3 +7,4 @@
   </a>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=fchrgrib&theme=github-dark-blue)](https://git.io/streak-stats)
+  ![](https://komarev.com/ghpvc/?username=your-github-username)
