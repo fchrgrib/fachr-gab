@@ -1,9 +1,10 @@
 <div align="center">
   <h3>Statistics</h3>
 
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=fchrgrib&theme=github-dark-blue)](https://git.io/streak-stats)
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/fchrgrib?theme=dark&font=Padauk)](https://leetcard.jacoblin.cool/fchrgrib?theme=dark&font=Padauk)
+  <div style="display: flex; flex-direction: column;">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=fchrgrib&theme=github-dark-blue)](https://git.io/streak-stats)
+    [![Leetcode Stats](https://leetcard.jacoblin.cool/fchrgrib?theme=dark&font=Padauk)](https://leetcard.jacoblin.cool/fchrgrib?theme=dark&font=Padauk)
+  </div>
   
   
   
