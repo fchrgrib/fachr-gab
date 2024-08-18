@@ -3,6 +3,7 @@
 
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=fchrgrib&theme=github-dark-blue)](https://git.io/streak-stats)
+  [[!Leetcode Stats](https://leetcard.jacoblin.cool/fchrgrib?theme=dark&font=Padauk)]
   
   
   
